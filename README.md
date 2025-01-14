@@ -54,7 +54,7 @@
 ###
 
 <div align="center">
-  <img src="https://spotify-sand-pi-20.vercel.app/api/spotify)](https://open.spotify.com/user/21emxcoj5an3ue2ogfzbemzzy)?" alt="Widget with the current Spotify song"  />
+  <img src="https://spotify-sand-pi-20.vercel.app/api/spotify](https://open.spotify.com/user/21emxcoj5an3ue2ogfzbemzzy)?" alt="Widget with the current Spotify song"  />
 </div>
 
 ###
