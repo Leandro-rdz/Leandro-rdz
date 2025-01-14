@@ -54,7 +54,7 @@
 ###
 
 <div align="center">
-  [![Spotify](https://USER_NAME.vercel.app/api/spotify)](https://open.spotify.com/user/USER_NAME)
+  [![Spotify](https://spotify-sand-pi-20.vercel.app/api/spotify)](https://open.spotify.com/user/21emxcoj5an3ue2ogfzbemzzy)
 </div>
 
 ###
