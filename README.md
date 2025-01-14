@@ -51,9 +51,3 @@
 
 <img src="https://raw.githubusercontent.com/leandro-rdz/leandro-rdz/output/snake.svg" alt="Snake animation" />
 
-###
-
-<div align="center">
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=21emxcoj5an3ue2ogfzbemzzy&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)
-</div>
-###
