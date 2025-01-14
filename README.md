@@ -52,9 +52,8 @@
 <img src="https://raw.githubusercontent.com/leandro-rdz/leandro-rdz/output/snake.svg" alt="Snake animation" />
 
 ###
-<!--
+
 <div align="center">
- [![Spotify](https://spotify-sand-pi-20.vercel.app/api/spotify)](https://open.spotify.com/user/21emxcoj5an3ue2ogfzbemzzy)
-</div>
+[![Spotify](https://novatorem.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/omnitenebris)</div>
 
 ###
