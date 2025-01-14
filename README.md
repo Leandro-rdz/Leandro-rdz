@@ -54,6 +54,6 @@
 ###
 
 <div align="center">
-[![Spotify](https://novatorem.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/omnitenebris)</div>
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=21emxcoj5an3ue2ogfzbemzzy&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)
 </div>
 ###
