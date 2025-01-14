@@ -46,13 +46,13 @@
 <img align="right" height="150" src="https://camo.githubusercontent.com/7ad6807a0f9217c2207e54cb17275d4ec3667fc03abb397a38a47bce2bd88ec6/68747470733a2f2f692e67697068792e636f6d2f5254684e30684f5332474f344d2e676966"  />
 
 ###
-<!--
+
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/leandro-rdz/leandro-rdz/output/snake.svg" alt="Snake animation" />
 
 ###
-
+<!--
 <div align="center">
  [![Spotify](https://spotify-sand-pi-20.vercel.app/api/spotify)](https://open.spotify.com/user/21emxcoj5an3ue2ogfzbemzzy)
 </div>
